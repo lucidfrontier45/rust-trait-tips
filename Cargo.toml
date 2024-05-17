@@ -1,0 +1,9 @@
+[package]
+name = "trait_tips"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+auto_impl = "1.2.0"
+trait-set = "0.3.0"
+trait_enum = "0.5.0"
